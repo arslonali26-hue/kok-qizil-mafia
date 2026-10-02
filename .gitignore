@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.zip
+*.bak
+*.backup*
+*backup*
+*.stage*_before
+.autobuilder_backups/

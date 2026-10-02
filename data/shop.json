@@ -1,0 +1,865 @@
+{
+    "categories": {
+        "weapons": {
+            "name": "🔫 Qurollar",
+            "items": {
+                "weapon_01": {
+                    "name": "🔫 Temir Qadam",
+                    "price": 63000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 20 HP\n✨ XP: 100",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 20,
+                    "xp": 100
+                },
+                "weapon_02": {
+                    "name": "🔫 Qora Burgut",
+                    "price": 47,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 22 HP\n✨ XP: 120",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 22,
+                    "xp": 120
+                },
+                "weapon_03": {
+                    "name": "🔫 Bo‘ron",
+                    "price": 126000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 24 HP\n✨ XP: 140",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 24,
+                    "xp": 140
+                },
+                "weapon_04": {
+                    "name": "🔫 Yashin",
+                    "price": 95,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 26 HP\n✨ XP: 160",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 26,
+                    "xp": 160
+                },
+                "weapon_05": {
+                    "name": "🔫 Qasoskor",
+                    "price": 220500,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 28 HP\n✨ XP: 180",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 28,
+                    "xp": 180
+                },
+                "weapon_06": {
+                    "name": "🔫 Ajdar Nafasi",
+                    "price": 158,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 30 HP\n✨ XP: 200",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 30,
+                    "xp": 200
+                },
+                "weapon_07": {
+                    "name": "🔫 Tog‘ Zarbi",
+                    "price": 378000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 35 HP\n✨ XP: 220",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 35,
+                    "xp": 220
+                },
+                "weapon_08": {
+                    "name": "🔫 Qora Momaqaldiroq",
+                    "price": 252,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 38 HP\n✨ XP: 240",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 38,
+                    "xp": 240
+                },
+                "weapon_09": {
+                    "name": "🔫 Temir Bo‘ron",
+                    "price": 630000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 41 HP\n✨ XP: 260",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 41,
+                    "xp": 260
+                },
+                "weapon_10": {
+                    "name": "🔫 Halokat",
+                    "price": 378,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 44 HP\n✨ XP: 280",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 44,
+                    "xp": 280
+                },
+                "weapon_11": {
+                    "name": "🔫 Kumush O‘q",
+                    "price": 945000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 40 HP\n✨ XP: 300",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 40,
+                    "xp": 300
+                },
+                "weapon_12": {
+                    "name": "🔫 So‘nggi Nishon",
+                    "price": 567,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 43 HP\n✨ XP: 320",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 43,
+                    "xp": 320
+                },
+                "weapon_13": {
+                    "name": "🔫 Sokin O‘q",
+                    "price": 1260000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 46 HP\n✨ XP: 340",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 46,
+                    "xp": 340
+                },
+                "weapon_14": {
+                    "name": "🔫 Chaqmoq",
+                    "price": 756,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 32 HP\n✨ XP: 360",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 32,
+                    "xp": 360
+                },
+                "weapon_15": {
+                    "name": "🔫 Bo‘ri Tishi",
+                    "price": 1575000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 35 HP\n✨ XP: 380",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 35,
+                    "xp": 380
+                },
+                "weapon_16": {
+                    "name": "🔫 Temir Yomg‘ir",
+                    "price": 945,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 38 HP\n✨ XP: 400",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 38,
+                    "xp": 400
+                },
+                "weapon_17": {
+                    "name": "🔫 Qora Chaqmoq",
+                    "price": 1890000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 41 HP\n✨ XP: 420",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 41,
+                    "xp": 420
+                },
+                "weapon_18": {
+                    "name": "🔫 Jangovar Ajdar",
+                    "price": 1134,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 48 HP\n✨ XP: 440",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 48,
+                    "xp": 440
+                },
+                "weapon_19": {
+                    "name": "🔫 Ovchi Ruhi",
+                    "price": 2205000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 52 HP\n✨ XP: 460",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 52,
+                    "xp": 460
+                },
+                "weapon_20": {
+                    "name": "🔫 Bo‘ron Yomg‘iri",
+                    "price": 1323,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 45 HP\n✨ XP: 480",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 45,
+                    "xp": 480
+                },
+                "weapon_21": {
+                    "name": "🔫 Qasos Qanoti",
+                    "price": 2520000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 42 HP\n✨ XP: 500",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 42,
+                    "xp": 500
+                },
+                "weapon_22": {
+                    "name": "🔫 Qirol Zarbi",
+                    "price": 1512,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 55 HP\n✨ XP: 520",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 55,
+                    "xp": 520
+                },
+                "weapon_23": {
+                    "name": "🔫 Osmon O‘qi",
+                    "price": 2835000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 60 HP\n✨ XP: 540",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 60,
+                    "xp": 540
+                },
+                "weapon_24": {
+                    "name": "🔫 Tun Hukmdori",
+                    "price": 1701,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 52 HP\n✨ XP: 560",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 52,
+                    "xp": 560
+                },
+                "weapon_25": {
+                    "name": "🔫 Afsona",
+                    "price": 3150000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 65 HP\n✨ XP: 580",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 65,
+                    "xp": 580
+                },
+                "weapon_26": {
+                    "name": "🔫 Soya Tishi",
+                    "price": 1890,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 48 HP\n✨ XP: 600",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 48,
+                    "xp": 600
+                },
+                "weapon_27": {
+                    "name": "🔫 Qorong‘u Bo‘ron",
+                    "price": 3465000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 58 HP\n✨ XP: 620",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 58,
+                    "xp": 620
+                },
+                "weapon_28": {
+                    "name": "🔫 Tun O‘qi",
+                    "price": 2079,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 63 HP\n✨ XP: 640",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 63,
+                    "xp": 640
+                },
+                "weapon_29": {
+                    "name": "🔫 Soya Yashin",
+                    "price": 3780000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 55 HP\n✨ XP: 660",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 55,
+                    "xp": 660
+                },
+                "weapon_30": {
+                    "name": "🔫 Arvoh",
+                    "price": 2268,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 58 HP\n✨ XP: 680",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 58,
+                    "xp": 680
+                },
+                "weapon_31": {
+                    "name": "🔫 Arvoh Nafasi",
+                    "price": 4095000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 68 HP\n✨ XP: 700",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 68,
+                    "xp": 700
+                },
+                "weapon_32": {
+                    "name": "🔫 Ko‘rinmas Qasos",
+                    "price": 2457,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 73 HP\n✨ XP: 720",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 73,
+                    "xp": 720
+                },
+                "weapon_33": {
+                    "name": "🔫 Tun Ruhi",
+                    "price": 4410000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 62 HP\n✨ XP: 740",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 62,
+                    "xp": 740
+                },
+                "weapon_34": {
+                    "name": "🔫 Momaqaldiroq",
+                    "price": 2646,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 65 HP\n✨ XP: 760",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 65,
+                    "xp": 760
+                },
+                "weapon_35": {
+                    "name": "🔫 Osmon G‘azabi",
+                    "price": 4725000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 78 HP\n✨ XP: 780",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 78,
+                    "xp": 780
+                },
+                "weapon_36": {
+                    "name": "🔫 Yashin Hukmi",
+                    "price": 2835,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 82 HP\n✨ XP: 800",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 82,
+                    "xp": 800
+                },
+                "weapon_37": {
+                    "name": "🔫 Chaqmoq Toji",
+                    "price": 5040000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 70 HP\n✨ XP: 820",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 70,
+                    "xp": 820
+                },
+                "weapon_38": {
+                    "name": "🔫 Olov Tishi",
+                    "price": 3024,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 75 HP\n✨ XP: 840",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 75,
+                    "xp": 840
+                },
+                "weapon_39": {
+                    "name": "🔫 Inferno",
+                    "price": 5355000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 88 HP\n✨ XP: 860",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 88,
+                    "xp": 860
+                },
+                "weapon_40": {
+                    "name": "🔫 Do‘zax Nafasi",
+                    "price": 3213,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 92 HP\n✨ XP: 880",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 92,
+                    "xp": 880
+                },
+                "weapon_41": {
+                    "name": "🔫 Olov Hukmdori",
+                    "price": 5670000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 80 HP\n✨ XP: 900",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 80,
+                    "xp": 900
+                },
+                "weapon_42": {
+                    "name": "🔫 Qirol Qasosi",
+                    "price": 3402,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 85 HP\n✨ XP: 920",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 85,
+                    "xp": 920
+                },
+                "weapon_43": {
+                    "name": "🔫 Imperator Zarbi",
+                    "price": 6300000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 98 HP\n✨ XP: 940",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 98,
+                    "xp": 940
+                },
+                "weapon_44": {
+                    "name": "🔫 Samoviy Hukm",
+                    "price": 3780,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 100 HP\n✨ XP: 960",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 100,
+                    "xp": 960
+                },
+                "weapon_45": {
+                    "name": "🔫 Abadiy Toj",
+                    "price": 6930000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 90 HP\n✨ XP: 980",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 90,
+                    "xp": 980
+                },
+                "weapon_46": {
+                    "name": "🔫 Qora Hukm",
+                    "price": 4095,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 95 HP\n✨ XP: 1000",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 95,
+                    "xp": 1000
+                },
+                "weapon_47": {
+                    "name": "🔫 O‘lim Soyasi",
+                    "price": 7560000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 105 HP\n✨ XP: 1020",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 105,
+                    "xp": 1020
+                },
+                "weapon_48": {
+                    "name": "🔫 Qiyomat",
+                    "price": 4410,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 110 HP\n✨ XP: 1040",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 110,
+                    "xp": 1040
+                },
+                "weapon_49": {
+                    "name": "🔫 Yo‘q Qiluvchi",
+                    "price": 8820000,
+                    "currency": "Pul",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 100 HP\n✨ XP: 1060",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 100,
+                    "xp": 1060
+                },
+                "weapon_50": {
+                    "name": "🔫 Abadiyat Afsonasi",
+                    "price": 5040,
+                    "currency": "Almas",
+                    "description": "⭐ Level: 1/15\n💥 Zarar: 120 HP\n✨ XP: 1080",
+                    "stock": -1,
+                    "effects": [],
+                    "level": 1,
+                    "damage": 120,
+                    "xp": 1080
+                }
+            }
+        },
+        "medkits": {
+            "name": "💊 Aptechka",
+            "items": {
+                "bint": {
+                    "name": "🩹 Bint",
+                    "price": 150,
+                    "currency": "Pul",
+                    "description": "❤️ +10 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 10
+                        }
+                    ]
+                },
+                "dori": {
+                    "name": "🩹 Dori",
+                    "price": 300,
+                    "currency": "Pul",
+                    "description": "❤️ +20 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 20
+                        }
+                    ]
+                },
+                "boglam": {
+                    "name": "🩹 Bog‘lam",
+                    "price": 450,
+                    "currency": "Pul",
+                    "description": "❤️ +30 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 30
+                        }
+                    ]
+                },
+                "davolovchi_dori": {
+                    "name": "🩹 Davolovchi Dori",
+                    "price": 600,
+                    "currency": "Pul",
+                    "description": "❤️ +40 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 40
+                        }
+                    ]
+                },
+                "tibbiy_toplam": {
+                    "name": "🩹 Tibbiy To‘plam",
+                    "price": 750,
+                    "currency": "Pul",
+                    "description": "❤️ +50 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 50
+                        }
+                    ]
+                },
+                "birinchi_yordam": {
+                    "name": "🩹 Birinchi Yordam",
+                    "price": 900,
+                    "currency": "Pul",
+                    "description": "❤️ +60 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 60
+                        }
+                    ]
+                },
+                "tibbiy_yordam": {
+                    "name": "🩹 Tibbiy Yordam",
+                    "price": 1050,
+                    "currency": "Pul",
+                    "description": "❤️ +70 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 70
+                        }
+                    ]
+                },
+                "davolash_toplami": {
+                    "name": "🩹 Davolash To‘plami",
+                    "price": 1200,
+                    "currency": "Pul",
+                    "description": "❤️ +80 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 80
+                        }
+                    ]
+                },
+                "kengaytirilgan_yordam": {
+                    "name": "🩹 Kengaytirilgan Yordam",
+                    "price": 1350,
+                    "currency": "Pul",
+                    "description": "❤️ +90 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 90
+                        }
+                    ]
+                },
+                "toliq_tibbiy_yordam": {
+                    "name": "🩹 To‘liq Tibbiy Yordam",
+                    "price": 1500,
+                    "currency": "Pul",
+                    "description": "❤️ +100 HP\n🔢 1 marta",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "hp",
+                            "value": 100
+                        }
+                    ]
+                }
+            }
+        },
+        "defense": {
+            "name": "🛡 Himoya",
+            "items": {
+                "oddiy_himoya": {
+                    "name": "🛡️ Oddiy Himoya",
+                    "price": 500,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +20\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 20
+                        }
+                    ]
+                },
+                "mustahkam_himoya": {
+                    "name": "🛡️ Mustahkam Himoya",
+                    "price": 1000,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +40\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 40
+                        }
+                    ]
+                },
+                "temir_himoya": {
+                    "name": "🛡️ Temir Himoya",
+                    "price": 1500,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +60\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 60
+                        }
+                    ]
+                },
+                "kuchli_himoya": {
+                    "name": "🛡️ Kuchli Himoya",
+                    "price": 2000,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +80\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 80
+                        }
+                    ]
+                },
+                "maxsus_himoya": {
+                    "name": "🛡️ Maxsus Himoya",
+                    "price": 2500,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +100\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 100
+                        }
+                    ]
+                },
+                "ogir_himoya": {
+                    "name": "🛡️ Og‘ir Himoya",
+                    "price": 3000,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +120\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 120
+                        }
+                    ]
+                },
+                "yuqori_himoya": {
+                    "name": "🛡️ Yuqori Himoya",
+                    "price": 3500,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +140\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 140
+                        }
+                    ]
+                },
+                "kuchaytirilgan_himoya": {
+                    "name": "🛡️ Kuchaytirilgan Himoya",
+                    "price": 4000,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +160\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 160
+                        }
+                    ]
+                },
+                "professional_himoya": {
+                    "name": "🛡️ Professional Himoya",
+                    "price": 4500,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +180\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 180
+                        }
+                    ]
+                },
+                "toliq_himoya": {
+                    "name": "🛡️ To‘liq Himoya",
+                    "price": 5000,
+                    "currency": "Pul",
+                    "description": "🛡️ Himoya HP: +200\n🔢 1 o‘yinda 1 marta",
+                    "stock": -1,
+                    "uses": 1,
+                    "effects": [
+                        {
+                            "effect_type": "defense_hp",
+                            "value": 200
+                        }
+                    ]
+                }
+            }
+        },
+        "hp": {
+            "name": "❤️ HP",
+            "items": {}
+        },
+        "other": {
+            "name": "📦 Boshqa",
+            "items": {
+                "item_1": {
+                    "name": "Supper kuch",
+                    "price": 1,
+                    "currency": "Almas",
+                    "description": "",
+                    "stock": -1,
+                    "effects": [
+                        {
+                            "effect_type": "almas",
+                            "value": 5
+                        },
+                        {
+                            "effect_type": "unlock_feature",
+                            "value": 6
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
